@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: "Tung.NT — Real Estate Photo Editing",
   description:
     "Professional real estate photo editing from Vietnam — HDR, Flash Blend, Day to Dusk, Virtual Staging, Twilight, object removal and renovation. Fast 24-hour turnaround, fair pricing.",
-  metadataBase: new URL("https://tung-nt.com"),
+  metadataBase: new URL("https://professionalrealestatephotoediting.com"),
   openGraph: {
     title: "Tung.NT — Real Estate Photo Editing",
     description:
